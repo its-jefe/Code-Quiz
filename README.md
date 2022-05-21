@@ -9,8 +9,8 @@
 ## Welcome to the Awesome Quiz! 
 ### With your host, GitHub Pages!
 
-This silly quiz game is my fourth project for [UCF Coding Bootcamp][1] and focuses on:
-- implementing timers (setTimout, setInterval)
+This silly quiz game is my fourth project for [UCF Coding Bootcamp][1] and implements:
+-  timers (setTimout, setInterval)
 - DOM manipulation
 - localstorage
 - JS logic
@@ -19,7 +19,6 @@ This silly quiz game is my fourth project for [UCF Coding Bootcamp][1] and focus
 The kitschy backdrop was created in Adobe Illustrator.
 
 ## Rules
-```
 You have 60 seconds to correctly answer 5 questions...
 
 Sounds easy enough, BUT, if you answer incorrectly you are penalized 15 seconds.
@@ -27,7 +26,6 @@ Sounds easy enough, BUT, if you answer incorrectly you are penalized 15 seconds.
 Points are awarded for speed and correctness and at the end you can save your [local] score with your initials to the high-score board.
 
 Just hit the start button to begin the awesomeness.
-```
 
 ## Future Improvements
 
