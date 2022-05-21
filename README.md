@@ -1,14 +1,12 @@
 # 04 Web APIs: <s>Code Quiz</s> Awesome Quiz
 
 #### Up and running @ https://its-jefe.github.io/Code-Quiz/
-
-#### Offical [grading criteria][2] for this project. 
 ---
 
 ## Welcome to the Awesome Quiz! 
 ### With your host, GitHub Pages!
 
-This silly quiz game is my <b>fourth project</b> for [UCF Coding Bootcamp][1] and implements:
+This silly quiz game is the [fourth project][2] for [UCF Coding Bootcamp][1] and implements:
 - Timers (`setTimout`, `setInterval`)
 - `Localstorage`
 - `JavaScript` with `DOM` manipulation
