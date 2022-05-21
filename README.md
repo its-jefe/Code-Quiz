@@ -8,12 +8,11 @@
 ## Welcome to the Awesome Quiz! 
 ### With your host, GitHub Pages!
 
-This silly quiz game is my fourth project for [UCF Coding Bootcamp][1] and implements:
-- timers (setTimout, setInterval)
-- DOM manipulation
-- localstorage
-- JS logic
-- CSS animation. 
+This silly quiz game is my <b>fourth project</b> for [UCF Coding Bootcamp][1] and implements:
+- Timers (`setTimout`, `setInterval`)
+- `Localstorage`
+- `JavaScript` with `DOM` manipulation
+- Fun `CSS` animations
 
 The kitschy backdrop was created in Adobe Illustrator.
 
