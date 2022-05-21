@@ -1,4 +1,4 @@
-# 04 Web APIs: <s>Code Quiz</s> The Awesome Quiz
+# 04 Web APIs: <s>Code Quiz</s> Awesome Quiz
 
 #### Up and running @ https://its-jefe.github.io/Code-Quiz/
 
