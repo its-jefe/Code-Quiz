@@ -1,51 +1,39 @@
 # 04 Web APIs: Code Quiz
 
-Up and running @ https://its-jefe.github.io/Code-Quiz/
+#### Up and running @ https://its-jefe.github.io/Code-Quiz/
 
-As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+#### Offical [grading criteria][2] for this project. <i>Please note I diverged from the "code quiz" topic only after the go-ahead from my instructor.</i>
 
-## User Story
+---
 
+## Welcome to the Awesome Quiz! 
+### With your host, GitHub Pages!
+
+This silly quiz game is my fourth project for [UCF Coding Bootcamp][1] and focuses on:
+- implementing timers (setTimout, setInterval)
+- DOM manipulation
+- localstorage
+- JS logic
+- CSS animation. 
+
+The kitschy backdrop was created in Adobe Illustrator.
+
+## Rules
 ```
-AS A coding bootcamp student
+You have 60 seconds to correctly answer 5 questions...
 
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+Sounds easy enough, BUT, if you answer incorrectly you are penalized 15 seconds.
 
-SO THAT I can gauge my progress compared to my peers
-```
+Points are awarded for speed and correctness and at the end you can save your [local] score with your initials to the high-score board.
 
-## Acceptance Criteria
-
-```
-GIVEN I am taking a code quiz
-
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-
-WHEN I answer a question
-THEN I am presented with another question
-
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-
-WHEN the game is over
-THEN I can save my initials and score
+Just hit the start button to begin the awesomeness.
 ```
 
-The following animation demonstrates the application functionality:
+## Future Improvements
 
-![code quiz](./assets/images/04-web-apis-homework-demo.gif)
+1. Add more questions
+2. Keep the highscores on a server instead of only locally
 
-### Review
 
-You are required to submit the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+[1]: https://bootcamp.ce.ucf.edu/coding/
+[2]: https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/04-Web-APIs/02-Challenge
