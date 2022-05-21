@@ -2,8 +2,7 @@
 
 #### Up and running @ https://its-jefe.github.io/Code-Quiz/
 
-#### Offical [grading criteria][2] for this project. <i>Please note I diverged from the "code quiz" topic only after the go-ahead from my instructor.</i>
-
+#### Offical [grading criteria][2] for this project. 
 ---
 
 ## Welcome to the Awesome Quiz! 
